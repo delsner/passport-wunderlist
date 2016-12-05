@@ -1,0 +1,14 @@
+{
+  "name": "passport-wunderlist",
+  "version": "1.0.0",
+  "description": "A passport strategy for wunderlist oauth2.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Elsner",
+  "license": "MIT",
+  "dependencies": {
+    "passport-oauth2": "^1.3.0"
+  }
+}
