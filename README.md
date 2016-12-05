@@ -50,7 +50,8 @@ application:
 ## Credits
 
 Created by [Daniel Elsner](https://delsner.github.io/)
-Contribution [Paul Gualotuna](http://gualotuna.com)
+
+Contributor [Paul Gualotuna](http://gualotuna.com)
 
 
 Code based on passport-meetup-oauth2 [Joe Woodhouse](http://github.com/joewoodhouse)
